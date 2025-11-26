@@ -1,0 +1,42 @@
+.usersDataStyle {
+  text-align: center;
+  color: #333;
+  background-color: #e4dfdfff;
+  padding: 8px 0;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  margin-top: 0;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.containerStyle {
+  max-width: 450px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+.inputStyle {
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.formStyle {
+  display: flex;
+  flex-direction: column;
+}
+
+.btnStyleBlue { 
+  background: #007bff;
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+}
